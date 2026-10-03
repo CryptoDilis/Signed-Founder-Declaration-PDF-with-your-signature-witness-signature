@@ -1,20 +1,30 @@
 # Contributors
 
+This document records contributors who have been publicly identified as participating in the development or establishment of ScamLedger.
+
 ## Founder
 
-**Jomar A. Escalante**
+### Jomar A. Escalante
 
-Founder and project initiator.
+**Role:** Founder / Project Initiator
 
-## Witness
+Responsible for initiating the ScamLedger project and establishing its initial project direction and documentation.
 
-**Ella May Bautista**
+## Founder Declaration Witness
 
-Witness to the Founder Declaration.
+### Ella May Bautista
 
-## Notes
+**Role:** Witness
 
-This file records the individuals identified in the project's public
-founding documentation.
+Witness to the signed Founder Declaration associated with the project's founding documentation.
+
+## Future Contributors
 
 Additional contributors may be added as the project develops.
+
+Contributor roles and responsibilities may be updated as the project progresses.
+
+---
+
+**Status:** Initial Contributor Record  
+**Version:** 1.0
