@@ -1,22 +1,59 @@
 # Changelog
 
-All notable public changes to this project will be documented in this file.
+All notable changes to ScamLedger will be documented in this file.
 
-## [1.0.0] - 2026-10-03
+The format follows a simple version-based change history.
+
+---
+
+## [1.0.0] — Initial Public Documentation
 
 ### Added
 
-- Initial Founder Declaration
-- Initial public project documentation
-- Technical Specification v1.0
+- Initial public ScamLedger repository
+- Founder Declaration
+- Initial technical specification
+- Initial revenue model
+- Initial tokenomics framework
+- Initial development roadmap
+- Contributor documentation
 - Project documentation directory
-- Initial licensing notice
+- Project license
+
+### Documentation
+
+Published the initial public design documents covering:
+
+- Project objectives
+- Technical direction
+- Revenue model
+- Tokenomics framework
+- Development roadmap
 - Contributor information
 
 ### Status
 
-Initial public documentation release.
+**Research & Development**
+
+The protocol, smart contracts, tokenomics parameters, liquidity structure, and other production mechanisms remain under development.
 
 ---
 
-Future changes will be recorded under new version entries.
+## Upcoming
+
+Future releases may include:
+
+- Protocol architecture updates
+- Smart contract specifications
+- Testnet development
+- Security documentation
+- Final tokenomics parameters
+- Final revenue parameters
+- Liquidity design
+- Deployment documentation
+
+---
+
+**Project:** ScamLedger  
+**Current Version:** 1.0.0  
+**Status:** Research & Development
